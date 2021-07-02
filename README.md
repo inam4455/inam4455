@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inam4455
 - 👀 I’m interested in learning python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on GIT
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
 <!---
